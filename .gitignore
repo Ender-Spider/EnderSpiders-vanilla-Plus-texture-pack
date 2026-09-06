@@ -1,0 +1,7 @@
+# Generated resource-pack archives
+/*.zip
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
