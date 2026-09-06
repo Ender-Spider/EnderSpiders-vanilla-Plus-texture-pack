@@ -1,5 +1,6 @@
 # Generated resource-pack archives
 /*.zip
+!/Ender_Spiders_Vanilla_Plus.zip
 
 # Operating-system metadata
 .DS_Store

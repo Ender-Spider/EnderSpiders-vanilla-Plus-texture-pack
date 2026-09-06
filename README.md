@@ -2,6 +2,10 @@
 
 this is a texture pack made by Me
 
+[Download the texture pack (.zip)](https://github.com/loading-error303/EnderSpiders-vanilla-Plus-texture-pack/raw/refs/heads/main/Ender_Spiders_Vanilla_Plus.zip)
+
+Place the downloaded ZIP in your Minecraft `resourcepacks` folder, then enable it in the Resource Packs menu.
+
 
 some credits can go to other people such as:
 **Vanilla Tweaks:**
