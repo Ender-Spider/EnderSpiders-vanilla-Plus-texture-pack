@@ -4,7 +4,7 @@ this is a texture pack made by Me
 
 
 some credits can go to other people such as:
-Vanilla Tweaks
+Vanilla Tweaks:
   Diminishing Tools
   Directional Hoppers
   Directional Dispensers & Droppers
@@ -13,14 +13,14 @@ Vanilla Tweaks
   Visual Note Block Pitch
   Brewing Guide
   Visual Honey Stages
-ShorkBee
+ShorkBee:
   Better leaves
-Xalixilax
+Xalixilax:
   Better fence post
   Stone gradient
-Made By Me
+Made By Me:
   Outlined ores
   Animated ore items
-  Low Fire
+  Low Fire:
   Animated potions
   Outlined Cobweb
